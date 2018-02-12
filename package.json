@@ -1,0 +1,18 @@
+{
+    "version": "0.0.1",
+    "name": "cordova-plugin-ios-splashscreen-options",
+    "cordova_name": "Cordova SplashScreen Options",
+    "description": "Cordova SplashScreen Options",
+    "license": "MIT",
+    "repo": "https://github.com/VarsitySoftware/cordova-plugin-ios-splashscreen-options.git",
+    "keywords": [
+        "cordova",
+        "ios",       
+        "ios9"
+    ],
+    "platforms": [
+        "ios"
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
