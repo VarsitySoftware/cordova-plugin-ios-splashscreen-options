@@ -28,8 +28,8 @@
 			</feature>
 		</config-file>
 
-		<header-file src="src/ios/SplashScreenOptions.h" />
-		<source-file src="src/ios/SplashScreenOptions.m" />
+		<header-file src="src/ios/splashScreenOptions.h" />
+		<source-file src="src/ios/splashScreenOptions.m" />
 
 	</platform>
 
